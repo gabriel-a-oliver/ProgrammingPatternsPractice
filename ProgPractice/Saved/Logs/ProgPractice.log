@@ -1528,3 +1528,19 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.11-23.32.12:116][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.12.11-23.32.12:120][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
 [2022.12.11-23.32.12:135][514]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.12.11-23.37.11:195][309]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.37.11:196][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.37.14:244][462]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.37.14:244][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.37.17:403][623]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.37.17:403][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.37.17:412][623]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.37.17:412][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.38.28:309][184]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.12.11-23.39.34:602][811]LogSlate: Window 'Project Settings' being destroyed
+[2022.12.11-23.39.34:643][811]LogSlate: Window 'Project Settings' being destroyed
+[2022.12.11-23.39.36:290][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.12.11-23.39.36:301][886]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Level
+[2022.12.11-23.39.36:302][886]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_LevelD31C6E7C42DBCF7AA98DC28352FFCA0B.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Level.umap'
+[2022.12.11-23.39.36:326][886]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.39.36:327][886]LogContentValidation: Display: Validating World /Game/UI/Main_Menu_Level.Main_Menu_Level
