@@ -771,3 +771,760 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.11-22.29.35:343][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2022.12.11-22.29.35:391][814]LogPlayLevel: Display: Destroying online subsystem :Context_1
 [2022.12.11-22.30.09:088][839]LogDerivedDataCache: C:/Users/olive/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.264 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.11-22.40.22:045][635]LogSlate: Took 0.011840 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.12.11-22.40.22:053][635]LogViewport: Scene viewport resized to 2571x1160, mode Windowed.
+[2022.12.11-22.40.22:107][635]LogSlate: Took 0.012710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.11-22.40.25:600][743]LogViewport: Scene viewport resized to 2571x1081, mode Windowed.
+[2022.12.11-22.43.45:696][714]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.11-22.43.45:769][714]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.11-22.43.45:778][715]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.11-22.43.46:930][754]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2022.12.11-22.43.46:930][754]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.11-22.50.52:446][490]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.11-22.51.27:063][490]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.11-22.51.39:329][604]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.12.11-22.51.39:337][604]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.11-22.51.39:342][604]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.11-22.51.39:365][606]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.12.11-22.51.44:154][759]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Main_Menu
+[2022.12.11-22.51.44:161][759]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.11-22.54.21:119][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.12.11-22.54.23:097][707]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.11-22.54.23:118][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.12.11-22.54.27:400][823]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.11-22.54.28:702][823]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.12.11-22.54.28:739][823]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.11-22.54.28:742][823]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.11-22.54.28:759][825]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.12.11-22.54.33:553][979]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Main_Menu
+[2022.12.11-22.54.33:559][979]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.11-22.54.37:035][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu.uasset" SILENT=true
+[2022.12.11-22.54.37:040][ 83]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.004528 seconds
+[2022.12.11-22.54.37:043][ 83]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu
+[2022.12.11-22.54.37:043][ 83]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu7CADA59747FE0417F650E3B468457079.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu.uasset'
+[2022.12.11-22.54.37:062][ 83]AssetCheck: New page: Asset Save: Main_Menu
+[2022.12.11-22.54.37:062][ 83]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Main_Menu.Main_Menu
+[2022.12.11-22.55.11:810][318]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Main_Menu.Main_Menu
+[2022.12.11-22.55.11:810][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-22.55.11:854][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-22.55.11:872][318]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.12.11-22.55.13:012][318]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-22.55.13:012][318]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-22.55.13:126][318]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.12.11-22.55.13:135][318]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.12.11-22.55.16:316][407]LogSlate: Window 'Main_Menu' being destroyed
+[2022.12.11-22.59.03:195][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu.uasset" SILENT=true
+[2022.12.11-22.59.03:198][794]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu
+[2022.12.11-22.59.03:198][794]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_MenuD5E0437044DB5C1B667EFCB754787CC4.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu.uasset'
+[2022.12.11-22.59.03:219][794]AssetCheck: New page: Asset Save: Main_Menu
+[2022.12.11-22.59.03:219][794]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Main_Menu.Main_Menu
+[2022.12.11-23.00.30:032][614]LogSlate: Took 0.012014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.12.11-23.01.15:698][256]LogEditorTransaction: Undo Edit Left
+[2022.12.11-23.02.01:767][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.11-23.02.01:768][855]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.077
+[2022.12.11-23.02.01:768][855]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Main_Menu] ([2] browsable assets)...
+[2022.12.11-23.02.01:774][855]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Main_Menu.Main_Menu]
+[2022.12.11-23.02.01:774][855]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Main_Menu]
+[2022.12.11-23.02.01:778][855]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Main_Menu_Auto1
+[2022.12.11-23.02.01:778][855]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_Auto1593117D544B5CC30DB98F18F14F7CDAA.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Autosaves/Game/UI/Main_Menu_Auto1.uasset'
+[2022.12.11-23.02.01:779][855]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.12.11-23.03.27:434][853]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu.uasset" SILENT=true
+[2022.12.11-23.03.27:438][853]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu
+[2022.12.11-23.03.27:439][853]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu9FEE1205438702E9F20E7AB303F09756.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu.uasset'
+[2022.12.11-23.03.27:458][853]AssetCheck: New page: Asset Save: Main_Menu
+[2022.12.11-23.03.27:458][853]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Main_Menu.Main_Menu
+[2022.12.11-23.08.24:110][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu.uasset" SILENT=true
+[2022.12.11-23.08.24:114][771]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu
+[2022.12.11-23.08.24:114][771]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu8C18E04544EF082803380FAC5E45F006.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu.uasset'
+[2022.12.11-23.08.24:136][771]AssetCheck: New page: Asset Save: Main_Menu
+[2022.12.11-23.08.24:136][771]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Main_Menu.Main_Menu
+[2022.12.11-23.09.23:043][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu.uasset" SILENT=true
+[2022.12.11-23.09.23:049][986]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu
+[2022.12.11-23.09.23:050][986]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_MenuA00536DB47306BEA5BAC8B810AC1C657.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu.uasset'
+[2022.12.11-23.09.23:064][986]AssetCheck: New page: Asset Save: Main_Menu
+[2022.12.11-23.09.23:064][986]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Main_Menu.Main_Menu
+[2022.12.11-23.10.02:722][286]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18414092503957490683
+[2022.12.11-23.10.02:722][286]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2022.12.11-23.10.10:232][478]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.11-23.10.10:250][478]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.11-23.10.10:258][479]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.11-23.10.12:090][538]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2022.12.11-23.10.12:091][538]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.11-23.10.15:876][651]LogMaterial: Display: Missing cached shadermap for Material_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0CE164508031C93C75BCF68DB440FC6D88011500), compiling. 
+[2022.12.11-23.10.18:140][715]LogShaderCompilers: Display: ================================================
+[2022.12.11-23.10.18:140][715]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Shaders Compiled: 2
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Time job spent in pending queue: average 0.01 s, longest 0.01 s
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Job execution time: average 2.20 s, max 2.20 s
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Job life time (pending + execution): average 2.21 s, max 2.21
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.21 s
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Average processing rate: 0.45 jobs/sec
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Effective parallelization: 0.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.71 sec, max 0.71 sec, min 0.71 sec)
+[2022.12.11-23.10.18:141][715]LogShaderCompilers: Display: ================================================
+[2022.12.11-23.10.25:985][947]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.12.11-23.10.26:066][947]LogContentBrowser: Creating deferred item: NewWorld
+[2022.12.11-23.10.26:083][949]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2022.12.11-23.10.37:606][313]LogContentBrowser: Attempting asset rename: NewWorld -> Command_Pattern
+[2022.12.11-23.10.37:606][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.10.37:634][313]LogContentBrowser: End creating deferred item NewWorld
+[2022.12.11-23.10.39:289][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.11-23.10.50:582][362]LogSlate: Window 'Save Content' being destroyed
+[2022.12.11-23.10.50:769][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.12.11-23.10.50:773][362]LogSavePackage: Moving output files for package: /Game/Levels/Command_Pattern
+[2022.12.11-23.10.50:773][362]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Command_Pattern78568F564C19A5264B76308B84C8B767.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/Levels/Command_Pattern.umap'
+[2022.12.11-23.10.50:783][362]LogFileHelpers: Saving map 'Command_Pattern' took 0.055
+[2022.12.11-23.10.50:803][362]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Command_Pattern.Command_Pattern
+[2022.12.11-23.10.50:803][362]Cmd: MAP LOAD FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/Levels/Command_Pattern.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.11-23.10.50:803][362]LightingResults: New page: Lighting Build
+[2022.12.11-23.10.50:803][362]LoadErrors: New page: Loading map: Command_Pattern.umap
+[2022.12.11-23.10.50:806][362]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.10.50:807][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.10.50:810][362]MapCheck: New page: Map Check
+[2022.12.11-23.10.50:810][362]LightingResults: New page: Lighting Build
+[2022.12.11-23.10.50:842][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-23.10.50:849][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.11-23.10.50:851][362]LogWorld: UWorld::CleanupWorld for Command_Pattern, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.10.50:851][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.10.50:887][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.12.11-23.10.50:922][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.12.11-23.10.50:924][362]LogAudio: Display: Audio Device (ID: 1) registered with world 'Command_Pattern'.
+[2022.12.11-23.10.50:924][362]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.11-23.10.50:924][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.10.50:925][362]LogAIModule: Creating AISystem for world Command_Pattern
+[2022.12.11-23.10.50:926][362]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.11-23.10.50:962][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.12.11-23.10.50:966][362]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.11-23.10.50:966][362]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2022.12.11-23.10.50:966][362]LogFileHelpers: Loading map 'Command_Pattern' took 0.163
+[2022.12.11-23.10.50:977][362]AssetCheck: New page: Asset Save: Command_Pattern
+[2022.12.11-23.10.50:977][362]LogContentValidation: Display: Validating World /Game/Levels/Command_Pattern.Command_Pattern
+[2022.12.11-23.10.52:680][432]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.11-23.10.52:684][432]LogSavePackage: Moving output files for package: /Game/Levels/Command_Pattern
+[2022.12.11-23.10.52:685][432]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Command_Pattern5EC73FB54C72B5F4CB5DD3AABF8F69B6.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/Levels/Command_Pattern.umap'
+[2022.12.11-23.10.52:691][432]LogFileHelpers: Saving map 'Command_Pattern' took 0.048
+[2022.12.11-23.10.52:717][432]AssetCheck: New page: Asset Save: Command_Pattern
+[2022.12.11-23.10.52:717][432]LogContentValidation: Display: Validating World /Game/Levels/Command_Pattern.Command_Pattern
+[2022.12.11-23.11.04:526][  1]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.12.11-23.11.04:579][  1]LogContentBrowser: Creating deferred item: NewWorld
+[2022.12.11-23.11.04:592][  2]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2022.12.11-23.11.15:696][617]LogContentBrowser: Attempting asset rename: NewWorld -> Main_Menu_Level
+[2022.12.11-23.11.15:697][617]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.11.15:715][617]LogContentBrowser: End creating deferred item NewWorld
+[2022.12.11-23.11.17:088][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.11-23.11.19:004][687]LogSlate: Window 'Save Content' being destroyed
+[2022.12.11-23.11.19:191][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.12.11-23.11.19:195][687]LogSavePackage: Moving output files for package: /Game/Levels/Main_Menu_Level
+[2022.12.11-23.11.19:195][687]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_LevelFD7851614C7007C5EFB174912D55CE08.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/Levels/Main_Menu_Level.umap'
+[2022.12.11-23.11.19:201][687]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.046
+[2022.12.11-23.11.19:218][687]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.11.19:218][687]Cmd: MAP LOAD FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/Levels/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.11-23.11.19:218][687]LightingResults: New page: Lighting Build
+[2022.12.11-23.11.19:218][687]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2022.12.11-23.11.19:219][687]LogWorld: UWorld::CleanupWorld for Command_Pattern, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.11.19:219][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.11.19:219][687]MapCheck: New page: Map Check
+[2022.12.11-23.11.19:219][687]LightingResults: New page: Lighting Build
+[2022.12.11-23.11.19:254][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-23.11.19:257][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.12.11-23.11.19:258][687]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.11.19:258][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.11.19:293][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.12.11-23.11.19:328][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.11-23.11.19:332][687]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2022.12.11-23.11.19:332][687]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.11-23.11.19:332][687]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.11.19:332][687]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.12.11-23.11.19:333][687]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.11-23.11.19:372][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.12.11-23.11.19:376][687]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.11-23.11.19:377][687]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2022.12.11-23.11.19:377][687]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.158
+[2022.12.11-23.11.19:388][687]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.11.19:389][687]LogContentValidation: Display: Validating World /Game/Levels/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.11.20:897][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.11-23.11.20:900][760]LogSavePackage: Moving output files for package: /Game/Levels/Main_Menu_Level
+[2022.12.11-23.11.20:901][760]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_LevelC7A8890C4D8E49E63FDE9CA2B203DCA1.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/Levels/Main_Menu_Level.umap'
+[2022.12.11-23.11.20:908][760]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.046
+[2022.12.11-23.11.20:927][760]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.11.20:927][760]LogContentValidation: Display: Validating World /Game/Levels/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.12.04:569][ 87]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.11-23.12.04:626][ 87]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.11-23.12.04:635][ 88]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.11-23.12.07:649][256]LogContentBrowser: Attempting asset rename: NewFolder -> CommandPattern
+[2022.12.11-23.12.07:650][256]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.11-23.13.38:490][130]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.13.38:531][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.11-23.13.38:535][130]LogSavePackage: Moving output files for package: /Game/CommandPattern/Command_Pattern
+[2022.12.11-23.13.38:535][130]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Command_PatternA77537AC4BCA3310FAF9DEABF4B925F2.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/CommandPattern/Command_Pattern.umap'
+[2022.12.11-23.13.38:542][130]LogFileHelpers: Saving map 'Command_Pattern' took 0.052
+[2022.12.11-23.13.38:606][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.12.11-23.13.38:644][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.12.11-23.13.38:682][130]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.12.11-23.13.38:715][130]AssetCheck: New page: Asset Save: Command_Pattern
+[2022.12.11-23.13.38:715][130]LogContentValidation: Display: Validating World /Game/CommandPattern/Command_Pattern.Command_Pattern
+[2022.12.11-23.14.02:091][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.12.11-23.14.02:094][316]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Level
+[2022.12.11-23.14.02:094][316]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_Level19A208DF49E2DE0408138C81C6131181.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Level.umap'
+[2022.12.11-23.14.02:102][316]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.104
+[2022.12.11-23.14.02:205][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.12.11-23.14.02:254][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.12.11-23.14.02:291][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.12.11-23.14.02:327][316]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.14.02:327][316]LogContentValidation: Display: Validating World /Game/UI/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.14.29:263][736]LogContentBrowser: Attempting asset rename: Command_Pattern -> Command_Pattern_Level
+[2022.12.11-23.14.29:394][736]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.14.29:433][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.11-23.14.29:436][736]LogSavePackage: Moving output files for package: /Game/CommandPattern/Command_Pattern_Level
+[2022.12.11-23.14.29:437][736]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Command_Pattern_Level53ED08C244D3E21D42E120BE94F23B0F.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/CommandPattern/Command_Pattern_Level.umap'
+[2022.12.11-23.14.29:443][736]LogFileHelpers: Saving map 'Command_Pattern_Level' took 0.049
+[2022.12.11-23.14.29:513][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.12.11-23.14.29:551][736]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.12.11-23.14.29:589][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.11-23.14.29:597][736]AssetCheck: New page: Asset Save: Command_Pattern_Level
+[2022.12.11-23.14.29:597][736]LogContentValidation: Display: Validating World /Game/CommandPattern/Command_Pattern_Level.Command_Pattern_Level
+[2022.12.11-23.14.50:398][841]LogContentBrowser: Attempting asset rename: Main_Menu -> Main_Menu_UI
+[2022.12.11-23.14.50:420][841]LogMetaData: Removing '/Game/UI/Main_Menu_UI.SKEL_Main_Menu_UI_C' ref from Metadata '/Game/UI/Main_Menu.PackageMetaData'
+[2022.12.11-23.14.50:421][841]LogMetaData: Removing '/Game/UI/Main_Menu_UI.Main_Menu_UI_C' ref from Metadata '/Game/UI/Main_Menu.PackageMetaData'
+[2022.12.11-23.14.50:421][841]LogMetaData: Removing '/Game/UI/Main_Menu_UI.Main_Menu_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/Main_Menu.PackageMetaData'
+[2022.12.11-23.14.50:421][841]LogMetaData: Removing '/Game/UI/Main_Menu_UI.Main_Menu_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/Main_Menu.PackageMetaData'
+[2022.12.11-23.14.50:421][841]LogMetaData: Removing '/Game/UI/Main_Menu_UI.Main_Menu_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/Main_Menu.PackageMetaData'
+[2022.12.11-23.14.50:421][841]LogMetaData: Removing '/Game/UI/Main_Menu_UI.SKEL_Main_Menu_UI_C:PreConstruct' ref from Metadata '/Game/UI/Main_Menu.PackageMetaData'
+[2022.12.11-23.14.50:421][841]LogMetaData: Removing '/Game/UI/Main_Menu_UI.SKEL_Main_Menu_UI_C:Construct' ref from Metadata '/Game/UI/Main_Menu.PackageMetaData'
+[2022.12.11-23.14.50:421][841]LogMetaData: Removing '/Game/UI/Main_Menu_UI.SKEL_Main_Menu_UI_C:Tick' ref from Metadata '/Game/UI/Main_Menu.PackageMetaData'
+[2022.12.11-23.14.50:514][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu_UI" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset" SILENT=true
+[2022.12.11-23.14.50:518][841]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_UI
+[2022.12.11-23.14.50:518][841]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_UI339122E345E560C85BB503AAAC7E8B8D.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset'
+[2022.12.11-23.14.50:581][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.12.11-23.14.50:621][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.11-23.14.50:657][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.12.11-23.14.50:664][841]AssetCheck: New page: Asset Save: Main_Menu_UI
+[2022.12.11-23.14.50:664][841]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Main_Menu_UI.Main_Menu_UI
+[2022.12.11-23.14.53:136][969]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.12.11-23.14.53:140][969]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Level
+[2022.12.11-23.14.53:141][969]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_Level7D640F5F457025F7D5692B9BB7EE213F.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Level.umap'
+[2022.12.11-23.14.53:166][969]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.14.53:166][969]LogContentValidation: Display: Validating World /Game/UI/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.15.59:793][431]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.11-23.15.59:861][431]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.11-23.15.59:870][432]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.11-23.16.02:783][595]LogContentBrowser: Attempting asset rename: NewFolder -> Patterns
+[2022.12.11-23.16.02:784][595]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.11-23.16.05:739][751]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.12.11-23.16.05:739][751]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.12.11-23.16.08:015][851]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.16.08:055][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.12.11-23.16.08:058][851]LogSavePackage: Moving output files for package: /Game/Patterns/CommandPattern/Command_Pattern_Level
+[2022.12.11-23.16.08:058][851]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Command_Pattern_Level8C3F5CCA4F824CC359D337944DC234AC.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/Patterns/CommandPattern/Command_Pattern_Level.umap'
+[2022.12.11-23.16.08:064][851]LogFileHelpers: Saving map 'Command_Pattern_Level' took 0.050
+[2022.12.11-23.16.08:138][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.12.11-23.16.08:178][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.12.11-23.16.08:216][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.12.11-23.16.08:266][851]AssetCheck: New page: Asset Save: Command_Pattern_Level
+[2022.12.11-23.16.08:266][851]LogContentValidation: Display: Validating World /Game/Patterns/CommandPattern/Command_Pattern_Level.Command_Pattern_Level
+[2022.12.11-23.16.13:775][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.12.11-23.16.13:776][137]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UI/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.16.13:776][137]Cmd: MAP LOAD FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.11-23.16.13:777][137]LightingResults: New page: Lighting Build
+[2022.12.11-23.16.13:777][137]LoadErrors: New page: Loading map: Main_Menu_Level.umap
+[2022.12.11-23.16.13:778][137]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.16.13:778][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.16.13:778][137]MapCheck: New page: Map Check
+[2022.12.11-23.16.13:778][137]LightingResults: New page: Lighting Build
+[2022.12.11-23.16.13:815][137]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-23.16.13:817][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.11-23.16.13:819][137]LogWorld: UWorld::CleanupWorld for Command_Pattern_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.16.13:819][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.16.13:858][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.11-23.16.13:896][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2022.12.11-23.16.13:899][137]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu_Level'.
+[2022.12.11-23.16.13:899][137]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.11-23.16.13:900][137]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.16.13:900][137]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.12.11-23.16.13:902][137]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.11-23.16.13:942][137]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.12.11-23.16.13:947][137]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.11-23.16.13:947][137]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2022.12.11-23.16.13:948][137]LogFileHelpers: Loading map 'Main_Menu_Level' took 0.171
+[2022.12.11-23.17.34:548][105]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.11-23.17.37:495][105]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.12.11-23.17.37:510][105]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.12.11-23.17.37:515][105]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.12.11-23.17.37:531][106]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.12.11-23.17.46:569][598]LogContentBrowser: Attempting asset rename: NewBlueprint -> Main_Menu_Gamemode
+[2022.12.11-23.17.46:575][598]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.12.11-23.17.48:160][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu_Gamemode" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Gamemode.uasset" SILENT=true
+[2022.12.11-23.17.48:164][677]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Gamemode
+[2022.12.11-23.17.48:164][677]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_Gamemode96FA2F1F42446ACB34A72D864E71B2B3.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Gamemode.uasset'
+[2022.12.11-23.17.48:181][677]AssetCheck: New page: Asset Save: Main_Menu_Gamemode
+[2022.12.11-23.17.48:181][677]LogContentValidation: Display: Validating Blueprint /Game/UI/Main_Menu_Gamemode.Main_Menu_Gamemode
+[2022.12.11-23.18.33:817][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu_Gamemode" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Gamemode.uasset" SILENT=true
+[2022.12.11-23.18.33:821][515]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Gamemode
+[2022.12.11-23.18.33:821][515]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_Gamemode4289F12B40F672F5531C219579AF98F3.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Gamemode.uasset'
+[2022.12.11-23.18.33:844][515]AssetCheck: New page: Asset Save: Main_Menu_Gamemode
+[2022.12.11-23.18.33:844][515]LogContentValidation: Display: Validating Blueprint /Game/UI/Main_Menu_Gamemode.Main_Menu_Gamemode
+[2022.12.11-23.19.01:783][879]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/Main_Menu_Gamemode.Main_Menu_Gamemode
+[2022.12.11-23.19.01:784][879]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.19.02:445][879]LogViewport: Scene viewport resized to 1922x1737, mode Windowed.
+[2022.12.11-23.19.03:725][949]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, PhAT_FloorBox
+[2022.12.11-23.19.08:417][204]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.11-23.23.32:305][803]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.11-23.23.32:313][803]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.12.11-23.23.32:314][803]LogPlayLevel: [PlayLevel] Compiling Main_Menu_UI before play...
+[2022.12.11-23.23.32:470][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.12.11-23.23.32:471][803]LogPlayLevel: PlayLevel: Blueprint regeneration took 157 ms (1 blueprints)
+[2022.12.11-23.23.32:471][803]PIE: New page: PIE session: Main_Menu_Level (Dec 11, 2022, 7:23:32 AM)
+[2022.12.11-23.23.32:473][803]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.23.32:474][803]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001003s)
+[2022.12.11-23.23.32:474][803]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Main_Menu_Level.Main_Menu_Level to /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.001107s)
+[2022.12.11-23.23.32:474][803]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.11-23.23.32:474][803]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.23.32:475][803]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.12.11-23.23.32:475][803]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2022.12.11-23.23.32:525][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.12.11-23.23.32:525][803]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.11-23.23.32:525][803]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-23.23.32:525][803]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-23.23.32:525][803]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-23.23.32:525][803]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-23.23.32:525][803]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-23.23.32:525][803]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.11-23.23.32:525][803]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-23.23.32:525][803]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-23.23.32:526][803]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.11-23.23.32:526][803]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.11-23.23.32:526][803]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.11-23.23.32:528][803]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.11-23.23.32:556][803]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio(SST))
+[2022.12.11-23.23.32:557][803]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-23.23.32:557][803]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-23.23.32:557][803]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-23.23.32:558][803]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.11-23.23.32:558][803]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.11-23.23.32:560][803]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.11-23.23.32:560][803]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.11-23.23.32:560][803]LogInit: FAudioDevice initialized.
+[2022.12.11-23.23.32:560][803]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Menu_Level'.
+[2022.12.11-23.23.32:572][803]LogLoad: Game class is 'Main_Menu_Gamemode_C'
+[2022.12.11-23.23.32:572][803]LogWorld: Bringing World /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2022.12.11-15.23.32
+[2022.12.11-23.23.32:573][803]LogWorld: Bringing up level for play took: 0.000393
+[2022.12.11-23.23.32:575][803]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2022.12.11-23.23.32:577][803]PIE: Server logged in
+[2022.12.11-23.23.32:578][803]PIE: Play in editor total start time 0.265 seconds.
+[2022.12.11-23.23.34:697][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.23.34:697][922]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.23.34:698][922]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.23.34:698][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.23.34:712][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-23.23.34:719][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.23.34:770][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.23.34:771][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.11-23.23.34:773][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.11-23.23.34:781][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.12.11-23.23.34:819][923]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.12.11-23.23.45:854][143]BlueprintLog: New page: Compile Main_Menu_Gamemode
+[2022.12.11-23.23.45:930][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.11-23.23.47:012][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu_Gamemode" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Gamemode.uasset" SILENT=true
+[2022.12.11-23.23.47:015][197]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Gamemode
+[2022.12.11-23.23.47:015][197]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_GamemodeA50A770046944C887A27E1B4245618C0.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Gamemode.uasset'
+[2022.12.11-23.23.47:032][197]AssetCheck: New page: Asset Save: Main_Menu_Gamemode
+[2022.12.11-23.23.47:032][197]LogContentValidation: Display: Validating Blueprint /Game/UI/Main_Menu_Gamemode.Main_Menu_Gamemode
+[2022.12.11-23.23.48:655][290]BlueprintLog: New page: Compile Main_Menu_UI
+[2022.12.11-23.23.48:711][290]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.12.11-23.23.49:346][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu_UI" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset" SILENT=true
+[2022.12.11-23.23.49:352][316]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_UI
+[2022.12.11-23.23.49:353][316]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_UICF8E5F034906B2F268FCBEB77CE8A5E5.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset'
+[2022.12.11-23.23.49:373][316]AssetCheck: New page: Asset Save: Main_Menu_UI
+[2022.12.11-23.23.49:373][316]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Main_Menu_UI.Main_Menu_UI
+[2022.12.11-23.23.50:960][393]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.12.11-23.23.50:964][393]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Level
+[2022.12.11-23.23.50:964][393]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_Level4CCA543A48FABAE45F441CBDB2FE23A2.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Level.umap'
+[2022.12.11-23.23.50:992][393]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.23.50:992][393]LogContentValidation: Display: Validating World /Game/UI/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.26.06:688][177]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.12.11-23.26.07:430][208]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/UI/Main_Menu_Level.Main_Menu_Level:PersistentLevel.Main_Menu_Level
+[2022.12.11-23.26.07:430][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.26.15:481][617]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.11-23.26.19:367][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.12.11-23.26.19:372][827]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Level
+[2022.12.11-23.26.19:373][827]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_LevelB954AFE143A3CB49AD7C3A8CF4DE280E.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Level.umap'
+[2022.12.11-23.26.19:379][827]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.069
+[2022.12.11-23.26.19:400][827]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.26.19:400][827]LogContentValidation: Display: Validating World /Game/UI/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.26.20:651][901]BlueprintLog: New page: Compile Main_Menu_Level
+[2022.12.11-23.26.20:713][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.12.11-23.26.21:554][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.12.11-23.26.21:561][940]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Level
+[2022.12.11-23.26.21:562][940]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_LevelD145CABA435CBA21F4A3D48888BF69F1.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Level.umap'
+[2022.12.11-23.26.21:568][940]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.066
+[2022.12.11-23.26.21:590][940]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.26.21:590][940]LogContentValidation: Display: Validating World /Game/UI/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.26.40:984][925]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.11-23.26.40:991][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-23.26.40:991][925]PIE: New page: PIE session: Main_Menu_Level (Dec 11, 2022, 7:26:40 AM)
+[2022.12.11-23.26.41:027][925]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.26.41:028][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001167s)
+[2022.12.11-23.26.41:028][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Main_Menu_Level.Main_Menu_Level to /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.001286s)
+[2022.12.11-23.26.41:028][925]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.11-23.26.41:028][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.26.41:029][925]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.12.11-23.26.41:029][925]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2022.12.11-23.26.41:083][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.12.11-23.26.41:084][925]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.12.11-23.26.41:084][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-23.26.41:084][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-23.26.41:084][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-23.26.41:084][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-23.26.41:084][925]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-23.26.41:084][925]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.11-23.26.41:084][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-23.26.41:084][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-23.26.41:084][925]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.11-23.26.41:084][925]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.11-23.26.41:084][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.11-23.26.41:086][925]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.11-23.26.41:111][925]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio(SST))
+[2022.12.11-23.26.41:111][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-23.26.41:111][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-23.26.41:111][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-23.26.41:112][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.12.11-23.26.41:112][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.12.11-23.26.41:114][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.12.11-23.26.41:114][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.12.11-23.26.41:114][925]LogInit: FAudioDevice initialized.
+[2022.12.11-23.26.41:114][925]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main_Menu_Level'.
+[2022.12.11-23.26.41:134][925]LogLoad: Game class is 'Main_Menu_Gamemode_C'
+[2022.12.11-23.26.41:134][925]LogWorld: Bringing World /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2022.12.11-15.26.41
+[2022.12.11-23.26.41:134][925]LogWorld: Bringing up level for play took: 0.000379
+[2022.12.11-23.26.41:136][925]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.12.11-23.26.41:138][925]PIE: Server logged in
+[2022.12.11-23.26.41:139][925]PIE: Play in editor total start time 0.148 seconds.
+[2022.12.11-23.26.44:137][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.26.44:137][ 96]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.26.44:137][ 96]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.26.44:137][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.26.44:163][ 96]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-23.26.44:170][ 96]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.26.44:222][ 96]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.26.44:222][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.11-23.26.44:224][ 96]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.12.11-23.26.44:233][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.12.11-23.26.44:268][ 97]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.12.11-23.27.53:327][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.11-23.27.53:333][131]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Level
+[2022.12.11-23.27.53:334][131]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_LevelFADDA3CE4B9DE33EE02CCC84374C71DF.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Level.umap'
+[2022.12.11-23.27.53:340][131]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.062
+[2022.12.11-23.27.53:361][131]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.27.53:362][131]LogContentValidation: Display: Validating World /Game/UI/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.27.54:755][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.12.11-23.27.54:761][205]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Level
+[2022.12.11-23.27.54:762][205]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_LevelB87DB193471C34F096294B9182AD358B.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Level.umap'
+[2022.12.11-23.27.54:768][205]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.061
+[2022.12.11-23.27.54:789][205]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.27.54:789][205]LogContentValidation: Display: Validating World /Game/UI/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.27.55:313][238]BlueprintLog: New page: Compile Main_Menu_Level
+[2022.12.11-23.27.55:391][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.12.11-23.27.55:972][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.12.11-23.27.55:978][261]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Level
+[2022.12.11-23.27.55:979][261]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_Level248454E5408C0582210578906A92B7FE.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Level.umap'
+[2022.12.11-23.27.55:985][261]LogFileHelpers: Saving map 'Main_Menu_Level' took 0.063
+[2022.12.11-23.27.56:008][261]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.27.56:008][261]LogContentValidation: Display: Validating World /Game/UI/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.27.58:588][395]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.11-23.27.58:597][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-23.27.58:597][395]PIE: New page: PIE session: Main_Menu_Level (Dec 11, 2022, 7:27:58 AM)
+[2022.12.11-23.27.58:597][395]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.27.58:599][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001922s)
+[2022.12.11-23.27.58:599][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Main_Menu_Level.Main_Menu_Level to /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.002027s)
+[2022.12.11-23.27.58:600][395]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.11-23.27.58:600][395]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.27.58:600][395]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.12.11-23.27.58:600][395]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2022.12.11-23.27.58:655][395]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.12.11-23.27.58:655][395]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.12.11-23.27.58:655][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-23.27.58:655][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-23.27.58:655][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-23.27.58:655][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-23.27.58:655][395]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-23.27.58:655][395]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.11-23.27.58:656][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-23.27.58:656][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-23.27.58:656][395]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.11-23.27.58:656][395]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.11-23.27.58:656][395]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.11-23.27.58:658][395]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.11-23.27.58:683][395]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio(SST))
+[2022.12.11-23.27.58:684][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-23.27.58:684][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-23.27.58:684][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-23.27.58:684][395]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.12.11-23.27.58:684][395]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.12.11-23.27.58:687][395]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.12.11-23.27.58:687][395]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.12.11-23.27.58:687][395]LogInit: FAudioDevice initialized.
+[2022.12.11-23.27.58:687][395]LogAudio: Display: Audio Device (ID: 5) registered with world 'Main_Menu_Level'.
+[2022.12.11-23.27.58:703][395]LogLoad: Game class is 'Main_Menu_Gamemode_C'
+[2022.12.11-23.27.58:703][395]LogWorld: Bringing World /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2022.12.11-15.27.58
+[2022.12.11-23.27.58:704][395]LogWorld: Bringing up level for play took: 0.000469
+[2022.12.11-23.27.58:706][395]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.12.11-23.27.58:708][395]PIE: Server logged in
+[2022.12.11-23.27.58:708][395]PIE: Play in editor total start time 0.112 seconds.
+[2022.12.11-23.28.01:827][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.28.01:827][566]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.28.01:828][566]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.28.01:828][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.28.01:844][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-23.28.01:852][566]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.28.01:901][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.28.01:901][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.11-23.28.01:903][566]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.12.11-23.28.01:912][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.12.11-23.28.01:929][567]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.12.11-23.28.56:437][884]LogContentBrowser: Attempting asset rename: Command_Pattern_Level -> Command_Pattern_Level
+[2022.12.11-23.29.38:622][172]BlueprintLog: New page: Compile Main_Menu_UI
+[2022.12.11-23.29.38:708][172]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.12.11-23.29.39:377][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu_UI" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset" SILENT=true
+[2022.12.11-23.29.39:383][204]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_UI
+[2022.12.11-23.29.39:384][204]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_UI9A643BA84644275076DC1DAF20E0D45D.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset'
+[2022.12.11-23.29.39:401][204]AssetCheck: New page: Asset Save: Main_Menu_UI
+[2022.12.11-23.29.39:401][204]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Main_Menu_UI.Main_Menu_UI
+[2022.12.11-23.29.41:535][319]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.11-23.29.41:544][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-23.29.41:545][319]PIE: New page: PIE session: Main_Menu_Level (Dec 11, 2022, 7:29:41 AM)
+[2022.12.11-23.29.41:545][319]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.29.41:546][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001277s)
+[2022.12.11-23.29.41:546][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Main_Menu_Level.Main_Menu_Level to /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.001364s)
+[2022.12.11-23.29.41:546][319]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.11-23.29.41:546][319]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.29.41:547][319]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.12.11-23.29.41:547][319]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2022.12.11-23.29.41:609][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.12.11-23.29.41:611][319]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.12.11-23.29.41:611][319]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-23.29.41:611][319]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-23.29.41:611][319]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-23.29.41:611][319]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-23.29.41:611][319]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-23.29.41:611][319]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.11-23.29.41:611][319]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-23.29.41:611][319]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-23.29.41:612][319]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.11-23.29.41:612][319]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.11-23.29.41:612][319]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.11-23.29.41:614][319]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.11-23.29.41:641][319]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio(SST))
+[2022.12.11-23.29.41:641][319]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-23.29.41:641][319]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-23.29.41:641][319]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-23.29.41:643][319]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.12.11-23.29.41:643][319]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.12.11-23.29.41:644][319]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.12.11-23.29.41:644][319]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.12.11-23.29.41:644][319]LogInit: FAudioDevice initialized.
+[2022.12.11-23.29.41:644][319]LogAudio: Display: Audio Device (ID: 6) registered with world 'Main_Menu_Level'.
+[2022.12.11-23.29.41:661][319]LogLoad: Game class is 'Main_Menu_Gamemode_C'
+[2022.12.11-23.29.41:661][319]LogWorld: Bringing World /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2022.12.11-15.29.41
+[2022.12.11-23.29.41:661][319]LogWorld: Bringing up level for play took: 0.000339
+[2022.12.11-23.29.41:663][319]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.12.11-23.29.41:666][319]PIE: Server logged in
+[2022.12.11-23.29.41:667][319]PIE: Play in editor total start time 0.122 seconds.
+[2022.12.11-23.29.42:938][389]LogNet: Browse: /Game/Patterns/CommandPattern/Command_Pattern_Level
+[2022.12.11-23.29.42:938][389]LogLoad: LoadMap: /Game/Patterns/CommandPattern/Command_Pattern_Level
+[2022.12.11-23.29.42:938][389]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.29.42:939][389]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.29.42:939][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.29.43:021][389]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-23.29.43:024][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.12.11-23.29.43:027][389]LogPlayLevel: Creating play world package: /Game/Patterns/CommandPattern/UEDPIE_0_Command_Pattern_Level
+[2022.12.11-23.29.43:028][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000824s)
+[2022.12.11-23.29.43:028][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Patterns/CommandPattern/Command_Pattern_Level.Command_Pattern_Level to /Game/Patterns/CommandPattern/UEDPIE_0_Command_Pattern_Level.Command_Pattern_Level (0.000975s)
+[2022.12.11-23.29.43:028][389]LogAudio: Display: Audio Device (ID: 6) registered with world 'Command_Pattern_Level'.
+[2022.12.11-23.29.43:028][389]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.11-23.29.43:028][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.29.43:028][389]LogAIModule: Creating AISystem for world Command_Pattern_Level
+[2022.12.11-23.29.43:029][389]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2022.12.11-23.29.43:029][389]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.11-23.29.43:029][389]LogWorld: Bringing World /Game/Patterns/CommandPattern/UEDPIE_0_Command_Pattern_Level.Command_Pattern_Level up for play (max tick rate 0) at 2022.12.11-15.29.43
+[2022.12.11-23.29.43:029][389]LogWorld: Bringing up level for play took: 0.000328
+[2022.12.11-23.29.43:030][389]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.11-23.29.43:033][389]LogLoad: Took 0.094093 seconds to LoadMap(/Game/Patterns/CommandPattern/UEDPIE_0_Command_Pattern_Level)
+[2022.12.11-23.29.44:246][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.29.44:246][456]LogWorld: BeginTearingDown for /Game/Patterns/CommandPattern/UEDPIE_0_Command_Pattern_Level
+[2022.12.11-23.29.44:246][456]LogWorld: UWorld::CleanupWorld for Command_Pattern_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.29.44:247][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.29.44:273][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-23.29.44:279][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.29.44:332][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-23.29.44:332][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.11-23.29.44:334][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.12.11-23.29.44:339][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.29.44:343][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.12.11-23.29.44:361][457]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.12.11-23.29.45:610][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.12.11-23.29.45:616][514]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_Level
+[2022.12.11-23.29.45:617][514]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_Level992A592C4570DF55C496D8B7544E11D2.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_Level.umap'
+[2022.12.11-23.29.45:645][514]AssetCheck: New page: Asset Save: Main_Menu_Level
+[2022.12.11-23.29.45:645][514]LogContentValidation: Display: Validating World /Game/UI/Main_Menu_Level.Main_Menu_Level
+[2022.12.11-23.30.08:928][799]LogDerivedDataCache: C:/Users/olive/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.104 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.11-23.30.23:849][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu_UI" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset" SILENT=true
+[2022.12.11-23.30.23:855][650]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_UI
+[2022.12.11-23.30.23:856][650]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_UI85D16BD5407C8608D897F2B1046C167B.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset'
+[2022.12.11-23.30.23:875][650]AssetCheck: New page: Asset Save: Main_Menu_UI
+[2022.12.11-23.30.23:875][650]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Main_Menu_UI.Main_Menu_UI
+[2022.12.11-23.30.31:896][117]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.30.31:896][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.30.31:909][117]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.30.31:909][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.30.33:503][195]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Main_Menu_UI.Main_Menu_UI
+[2022.12.11-23.30.33:504][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.30.33:538][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.30.33:909][195]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-23.30.33:909][195]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-23.30.44:182][792]LogEditorTransaction: Undo Paste clipboard contents
+[2022.12.11-23.30.55:895][447]LogEditorTransaction: Undo Paste clipboard contents
+[2022.12.11-23.31.55:276][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu_UI" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset" SILENT=true
+[2022.12.11-23.31.55:283][612]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_UI
+[2022.12.11-23.31.55:284][612]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_UID5D4D639466474D13E19648124A62360.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset'
+[2022.12.11-23.31.55:305][612]AssetCheck: New page: Asset Save: Main_Menu_UI
+[2022.12.11-23.31.55:305][612]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Main_Menu_UI.Main_Menu_UI
+[2022.12.11-23.32.01:421][969]BlueprintLog: New page: Compile Main_Menu_UI
+[2022.12.11-23.32.01:530][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.11-23.32.02:248][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Main_Menu_UI" FILE="../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset" SILENT=true
+[2022.12.11-23.32.02:255][  4]LogSavePackage: Moving output files for package: /Game/UI/Main_Menu_UI
+[2022.12.11-23.32.02:256][  4]LogSavePackage: Moving '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Saved/Main_Menu_UID14992834600D86931367DB7F34CFC70.tmp' to '../../../../../../Users/olive/Documents/GitHub/ProgrammingPatternsPractice/ProgPractice/Content/UI/Main_Menu_UI.uasset'
+[2022.12.11-23.32.02:273][  4]AssetCheck: New page: Asset Save: Main_Menu_UI
+[2022.12.11-23.32.02:275][  4]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Main_Menu_UI.Main_Menu_UI
+[2022.12.11-23.32.05:208][161]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.11-23.32.05:216][161]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-23.32.05:217][161]PIE: New page: PIE session: Main_Menu_Level (Dec 11, 2022, 7:32:05 AM)
+[2022.12.11-23.32.05:217][161]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.32.05:218][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001502s)
+[2022.12.11-23.32.05:218][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Main_Menu_Level.Main_Menu_Level to /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.001614s)
+[2022.12.11-23.32.05:218][161]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.11-23.32.05:219][161]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.32.05:219][161]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.12.11-23.32.05:220][161]LogPlayLevel: PIE: World Init took: (0.001237s)
+[2022.12.11-23.32.05:294][161]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.12.11-23.32.05:302][161]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.12.11-23.32.05:302][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-23.32.05:302][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-23.32.05:302][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-23.32.05:302][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-23.32.05:302][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-23.32.05:302][161]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.11-23.32.05:302][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-23.32.05:303][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-23.32.05:303][161]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.11-23.32.05:303][161]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.11-23.32.05:303][161]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.11-23.32.05:305][161]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.11-23.32.05:330][161]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio(SST))
+[2022.12.11-23.32.05:330][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-23.32.05:330][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-23.32.05:330][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-23.32.05:332][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.12.11-23.32.05:332][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.12.11-23.32.05:335][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.12.11-23.32.05:335][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.12.11-23.32.05:335][161]LogInit: FAudioDevice initialized.
+[2022.12.11-23.32.05:335][161]LogAudio: Display: Audio Device (ID: 7) registered with world 'Main_Menu_Level'.
+[2022.12.11-23.32.05:351][161]LogLoad: Game class is 'Main_Menu_Gamemode_C'
+[2022.12.11-23.32.05:351][161]LogWorld: Bringing World /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2022.12.11-15.32.05
+[2022.12.11-23.32.05:352][161]LogWorld: Bringing up level for play took: 0.000398
+[2022.12.11-23.32.05:354][161]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.12.11-23.32.05:356][161]PIE: Server logged in
+[2022.12.11-23.32.05:357][161]PIE: Play in editor total start time 0.141 seconds.
+[2022.12.11-23.32.07:203][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.32.07:203][267]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.32.07:226][267]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.32.07:226][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.32.07:243][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-23.32.07:248][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.32.07:295][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-23.32.07:295][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.12.11-23.32.07:297][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.12.11-23.32.07:302][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.32.07:305][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.11-23.32.07:360][268]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.12.11-23.32.09:101][362]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.11-23.32.09:110][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-23.32.09:110][362]PIE: New page: PIE session: Main_Menu_Level (Dec 11, 2022, 7:32:09 AM)
+[2022.12.11-23.32.09:111][362]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.32.09:112][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001692s)
+[2022.12.11-23.32.09:112][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/Main_Menu_Level.Main_Menu_Level to /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level (0.001803s)
+[2022.12.11-23.32.09:113][362]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.11-23.32.09:113][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.32.09:113][362]LogAIModule: Creating AISystem for world Main_Menu_Level
+[2022.12.11-23.32.09:114][362]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2022.12.11-23.32.09:166][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.12.11-23.32.09:167][362]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.12.11-23.32.09:167][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-23.32.09:167][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-23.32.09:167][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-23.32.09:167][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-23.32.09:167][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.11-23.32.09:167][362]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.11-23.32.09:167][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.11-23.32.09:167][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-23.32.09:168][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.11-23.32.09:168][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.11-23.32.09:168][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.11-23.32.09:170][362]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.11-23.32.09:195][362]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek High Definition Audio(SST))
+[2022.12.11-23.32.09:195][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-23.32.09:195][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-23.32.09:196][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-23.32.09:196][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.12.11-23.32.09:196][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.12.11-23.32.09:199][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.12.11-23.32.09:199][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.12.11-23.32.09:199][362]LogInit: FAudioDevice initialized.
+[2022.12.11-23.32.09:199][362]LogAudio: Display: Audio Device (ID: 8) registered with world 'Main_Menu_Level'.
+[2022.12.11-23.32.09:214][362]LogLoad: Game class is 'Main_Menu_Gamemode_C'
+[2022.12.11-23.32.09:214][362]LogWorld: Bringing World /Game/UI/UEDPIE_0_Main_Menu_Level.Main_Menu_Level up for play (max tick rate 0) at 2022.12.11-15.32.09
+[2022.12.11-23.32.09:214][362]LogWorld: Bringing up level for play took: 0.000378
+[2022.12.11-23.32.09:216][362]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.12.11-23.32.09:218][362]PIE: Server logged in
+[2022.12.11-23.32.09:219][362]PIE: Play in editor total start time 0.109 seconds.
+[2022.12.11-23.32.10:319][425]LogNet: Browse: /Game/Patterns/CommandPattern/Command_Pattern_Level
+[2022.12.11-23.32.10:319][425]LogLoad: LoadMap: /Game/Patterns/CommandPattern/Command_Pattern_Level
+[2022.12.11-23.32.10:319][425]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_Main_Menu_Level
+[2022.12.11-23.32.10:320][425]LogWorld: UWorld::CleanupWorld for Main_Menu_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.32.10:320][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.32.10:369][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-23.32.10:371][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.11-23.32.10:373][425]LogPlayLevel: Creating play world package: /Game/Patterns/CommandPattern/UEDPIE_0_Command_Pattern_Level
+[2022.12.11-23.32.10:374][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000805s)
+[2022.12.11-23.32.10:374][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Patterns/CommandPattern/Command_Pattern_Level.Command_Pattern_Level to /Game/Patterns/CommandPattern/UEDPIE_0_Command_Pattern_Level.Command_Pattern_Level (0.000912s)
+[2022.12.11-23.32.10:374][425]LogAudio: Display: Audio Device (ID: 8) registered with world 'Command_Pattern_Level'.
+[2022.12.11-23.32.10:374][425]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.11-23.32.10:374][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-23.32.10:375][425]LogAIModule: Creating AISystem for world Command_Pattern_Level
+[2022.12.11-23.32.10:375][425]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2022.12.11-23.32.10:375][425]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.11-23.32.10:375][425]LogWorld: Bringing World /Game/Patterns/CommandPattern/UEDPIE_0_Command_Pattern_Level.Command_Pattern_Level up for play (max tick rate 0) at 2022.12.11-15.32.10
+[2022.12.11-23.32.10:376][425]LogWorld: Bringing up level for play took: 0.000343
+[2022.12.11-23.32.10:376][425]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.11-23.32.10:379][425]LogLoad: Took 0.059575 seconds to LoadMap(/Game/Patterns/CommandPattern/UEDPIE_0_Command_Pattern_Level)
+[2022.12.11-23.32.12:037][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.32.12:037][513]LogWorld: BeginTearingDown for /Game/Patterns/CommandPattern/UEDPIE_0_Command_Pattern_Level
+[2022.12.11-23.32.12:038][513]LogWorld: UWorld::CleanupWorld for Command_Pattern_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-23.32.12:038][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.32.12:060][513]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-23.32.12:066][513]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-23.32.12:109][513]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-23.32.12:109][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.12.11-23.32.12:111][513]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.12.11-23.32.12:116][513]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-23.32.12:120][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.12.11-23.32.12:135][514]LogPlayLevel: Display: Destroying online subsystem :Context_17
